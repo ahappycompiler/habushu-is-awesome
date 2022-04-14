@@ -1,0 +1,4 @@
+[console_scripts]
+artifact = repositorytools.cli.commands.artifact:artifact_cli
+repo = repositorytools.cli.commands.repo:repo_cli
+

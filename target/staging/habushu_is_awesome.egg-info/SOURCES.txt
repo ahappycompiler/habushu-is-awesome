@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+habushu_is_awesome.egg-info/PKG-INFO
+habushu_is_awesome.egg-info/SOURCES.txt
+habushu_is_awesome.egg-info/dependency_links.txt
+habushu_is_awesome.egg-info/top_level.txt
+habushu_is_awesome.egg-info/zip-safe
